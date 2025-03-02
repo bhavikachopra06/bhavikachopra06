@@ -6,7 +6,7 @@
 <p align="left">
   Experienced web developer 🌐 with a strong passion for problem-solving 🧩 and building scalable web applications 💡.<br>
   I enjoy working with the MERN stack and continuously expanding my knowledge in Data Structures and Algorithms (DSA).<br>
-  Always eager to learn 📚, collaborate 🤝, and contribute to exciting projects! ✨
+  Always eager to learn 📚, collaborate 🤝, and contribute to exciting projects✨
 </p>
 
 
