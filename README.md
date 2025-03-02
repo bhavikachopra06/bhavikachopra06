@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavika Chopra</h1>
 <h3 align="center">A Passionate Fullstack Web Developer from India 🚀</h3>
 <hr>
-<img align="right" alt="coding gif" width="350" height="300" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611c7ju288f35q6ikkln3x7i7lyqx9ssfqhlpjf3ezf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" alt="coding gif" width="350" height="350" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611c7ju288f35q6ikkln3x7i7lyqx9ssfqhlpjf3ezf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p>
 Experienced web developer 🌐 with a strong passion for problem-solving 🧩 and building scalable web applications 💡.
 I enjoy working with the MERN stack and continuously expanding my knowledge in Data Structures and Algorithms (DSA) .
