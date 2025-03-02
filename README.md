@@ -4,7 +4,7 @@
 <img align="right" alt="coding gif" width="350" height="350" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611c7ju288f35q6ikkln3x7i7lyqx9ssfqhlpjf3ezf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p>
 Experienced web developer 🌐 with a strong passion for problem-solving 🧩 and building scalable web applications 💡.
-I enjoy working with the MERN stack and continuously expanding my knowledge in Data Structures and Algorithms (DSA) .
+I enjoy working with the MERN stack and continuously expanding my knowledge in Data Structures and Algorithms (DSA).
 Always eager to learn 📚, collaborate 🤝, and contribute to exciting projects! ✨
 </p>
 
@@ -70,4 +70,3 @@ Always eager to learn 📚, collaborate 🤝, and contribute to exciting project
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
 </p>
-
